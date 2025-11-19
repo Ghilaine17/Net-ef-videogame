@@ -11,6 +11,4 @@ Fatto questo, ogni volta che creiamo un nuovo videogioco dobbiamo abbinargli la 
 
 Realizzare quindi tutte le entity e le migration necessarie per creare il database e implementare tutte le richieste dell’esercizio.
 
-BONUS : 
-aggiungere un’altra voce di menu
-stampa tutti i videogiochi prodotti da una software house (all’utente verrà chiesto l’id della software house della quale mostrare i videogame)
+
